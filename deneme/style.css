@@ -1,33 +1,43 @@
+.left-bar{
+    width: 200px;
+    float: left;
+    height: 100px;;
+}
+
+.content{
+    width: 800px;
+    float: left;
+    height: 100px;;
+}
+
 .conteiner{
     width: 1000px;
-    height: 1000px;
-    padding: 10px;
-    margin-right: auto;
-    margin-left: auto;
-    overflow: auto;
-
-}
-.leftbar{
-    background-color: aqua;
-    float:left;
-    width: 200px;
-    height: 200px;
-    
-}
-.content{
-    float:left;
-    width: 800px;
-    height: 800px;
-
+    background-color: violet;
+    margin: auto;
+    margin-top: 50px;
 }
 
 .card{
-  
+    width:18%;
     float: left;
-    background-color: antiquewhite;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
+    padding: 5%;
+    background-color: beige;
+    margin-right:5px ;
+    border-radius: 10px;
+}
 
+.box{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    float:left;
+}
+.green{
+    background-color: green;
+   
+}
+.red{
+    background-color: red;
     
-}  
+}
