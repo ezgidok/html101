@@ -1,0 +1,33 @@
+.conteiner{
+    width: 1000px;
+    height: 1000px;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+
+}
+.leftbar{
+    background-color: aqua;
+    float:left;
+    width: 200px;
+    height: 200px;
+    
+}
+.content{
+    float:left;
+    width: 800px;
+    height: 800px;
+
+}
+
+.card{
+  
+    float: left;
+    background-color: antiquewhite;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+
+    
+}  
